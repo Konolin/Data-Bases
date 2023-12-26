@@ -1,6 +1,0 @@
-USE Lab1;
-
---ZUSAMMENGESTETZTE BEDINGUNG MIT LOGISCHE OPERATOREN
-UPDATE Song
-SET [length] = [length] + 5
-WHERE [length] > 200 AND [length] < 220 
